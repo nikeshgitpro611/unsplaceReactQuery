@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-package-local.json
+package-lock.json
 package.json
+vite.config.js
